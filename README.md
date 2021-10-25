@@ -1,2 +1,2 @@
-# tampilan-termux-v2
-Ubah tampilan termux versi 2
+# termux
+Ubah tampilan termux Mank Nyank Tutorial
